@@ -1,4 +1,4 @@
-this is a tool to run python, c++ and matlab code in java environment.
+This is a tool to run python, c++ and matlab code in java environment.
 
 1. add transplanter.jar file in "out/artifacts" to your build path
 
